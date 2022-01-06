@@ -1,0 +1,26 @@
+body {
+	background-color: black;
+	text-align: center;
+	color: white;
+}
+
+.jumboTron {
+	width: 100%;
+	height: 300px;
+	background-image: url(burgerHeader.jpg);
+	background-size: cover;
+}
+
+h1 {
+	font-size: 100px;
+}
+
+.menu {
+	background-color: rgb(218, 173, 90);
+	width: 75%;
+	margin: auto;
+}
+
+.menu h2 {
+	background-color: red;
+}
