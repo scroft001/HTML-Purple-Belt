@@ -1,0 +1,33 @@
+*,
+html,
+body {
+	padding: 0px;
+	margin: 0px;
+}
+body {
+	text-align: center;
+}
+
+.jumbotron {
+	background-image: url(illusionsHeader.jpg);
+	height: 200px;
+	background-size: cover;
+	color: white;
+	font-size: 50px;
+	margin-bottom: 10px;
+}
+
+.exhibit {
+	width: 50%;
+	margin: auto;
+	border: 2px red solid;
+}
+
+.exhibit img {
+	width: 100%;
+}
+
+.plaque {
+	background: black;
+	color: goldenrod;
+}
